@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Kaffel</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">A passionate full-stack developer from Tunisia</h3>
 
 - 🌱 I’m currently learning **NextJs & AWS and TS**
 
