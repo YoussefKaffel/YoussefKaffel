@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJs & AWS and TS**
 
-- 👨‍💻 All of my projects are available at [https://youssefkaffel.github.io/YoussefKaffel-Portfolio](https://youssefkaffel.github.io/YoussefKaffel-Portfolio)
+- 👨‍💻 Find more details about me on  [https://youssefkaffel.tech](https://youssefkaffel.tech)
 
 - 📫 How to reach me **https://youssefkaffel.works/**
 
